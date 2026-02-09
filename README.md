@@ -1,10 +1,5 @@
 # Customer Relationship Management (CRM) System
 
-Module: TECH6100 – Programming Principles
-Organization: NovaTech Solutions
-
-------------------------------------------------------------
-
 Project Overview
 
 This project is a desktop-based Customer Relationship Management (CRM) system developed as part of the TECH6100 – Programming Principles module. The application is designed to manage customer information efficiently using Python 3 and Object-Oriented Programming (OOP) principles.
