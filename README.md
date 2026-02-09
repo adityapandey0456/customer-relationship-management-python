@@ -86,19 +86,8 @@ python gui_main.py
 
 ------------------------------------------------------------
 
-Academic Note
 
-This project was developed as an individual academic assessment for TECH6100 – Programming Principles. The work demonstrates understanding of Python programming concepts, software design principles, and professional development practices.
 
-------------------------------------------------------------
-
-Author
-
-Student Name: [Your Name]
-Institution: Kaplan Business School
-Module: TECH6100 – Programming Principles
-
-------------------------------------------------------------
 
 License
 
