@@ -76,7 +76,7 @@ Object-Oriented Programming
 How to Run the Project
 
 Clone the repository
-git clone https://github.com/your-username/crm-system-python-tech6100.git
+git clone https://github.com/your-username/crm-system-python
 
 Navigate to the project directory
 cd crm-system-python-tech6100
